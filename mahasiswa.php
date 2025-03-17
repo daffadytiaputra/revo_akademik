@@ -6,7 +6,8 @@
         <h6>Data Mahasiswa AMP</h6>
         <hr>
         <h6>NIM: 111111</h6><br>
-        <h6>Nama: Dicky Permana Putra</h6><br>
+        <h6>Nama: daffa Putra</h6><br>
+         <h6>Nama: rajuwanda</h6><br>
         <a href="index.php">Kembali</a>
     </body>
 </html>
